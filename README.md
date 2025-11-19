@@ -1,4 +1,4 @@
-Wedding Invitation Stamper 2
+# Wedding Invitation Stamper 2
 
 This Python GUI app is used for stamping names and table number on wedding invites, either only on the first page (*stamp_invites.py*) resulting in a png, or on a first page and prepending this page to the details.pdf in the utils folder (*stamp_invites_pdf.py*).
 
